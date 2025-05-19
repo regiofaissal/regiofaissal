@@ -1,6 +1,6 @@
 # 💻 Régio Faissal
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Régio Faissal, tenho 35 anos e sou natural de Minas Gerais. Concluí o ensino médio no em São josé do Rio Preto - SP. Atualmente, estou cursando Desenvolvimento Web - Programador Br. Estou aprendendo 10 tecnologias, do Front ao Back End, sou apaixonado por tecnologia e desenvolvimento.
 <p align="left">
@@ -82,43 +82,43 @@ Me chamo Régio Faissal, tenho 35 anos e sou natural de Minas Gerais. Concluí o
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Firebase" 
+    title="Firebase"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="MongoDB" 
+    title="MongoDB"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Socket.js" 
+    title="Socket.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketjs/sockejs-original.svg" 
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Redux" 
+    title="Redux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" 
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="Electron" 
+    title="Electron"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" 
 />
 <img 
     align="left" 
@@ -127,14 +127,6 @@ Me chamo Régio Faissal, tenho 35 anos e sou natural de Minas Gerais. Concluí o
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
