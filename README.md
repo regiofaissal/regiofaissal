@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Régio Faissal
+# 💻 Régio Faissal
 
 **`Desenvolvedora FullStack`**
 
@@ -50,11 +50,11 @@ Me chamo Régio Faissal, tenho 35 anos e sou natural de Minas Gerais. Concluí o
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="JQuery"
+    title="JQuery" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
@@ -66,11 +66,11 @@ Me chamo Régio Faissal, tenho 35 anos e sou natural de Minas Gerais. Concluí o
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
