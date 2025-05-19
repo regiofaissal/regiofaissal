@@ -98,14 +98,6 @@ Me chamo Régio Faissal, tenho 35 anos e sou natural de Frutal - MG. Concluí o 
 />
 <img 
     align="left" 
-    alt="Socket.js" 
-    title="Socket.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketjs/socketjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Redux" 
     title="Redux"
     width="30px" 
