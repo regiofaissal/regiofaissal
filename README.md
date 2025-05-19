@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Régio Faissal, tenho 35 anos e sou natural de Minas Gerais. Concluí o ensino médio no em São josé do Rio Preto - SP. Atualmente, estou cursando Desenvolvimento Web - Programador Br. Estou aprendendo 10 tecnologias, do Front ao Back End, sou apaixonado por tecnologia e desenvolvimento.
+Me chamo Régio Faissal, tenho 35 anos e sou natural de Frutal - MG. Concluí o ensino médio em São josé do Rio Preto - SP. Atualmente, estou cursando Desenvolvimento Web - Programador Br. Estou aprendendo 11 tecnologias, do Front ao Back End, sou apaixonado por tecnologia e desenvolvimento.
 <p align="left">
     <a href="https://github.com/regiofaissal?tab=repositories&sort=stargazers">
         <img 
